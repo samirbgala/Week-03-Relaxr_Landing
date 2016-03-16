@@ -1,0 +1,102 @@
+body {
+    text-align: left;
+    background-image: url('RelaxrBG.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #f0efef;
+    background-position: top;
+        }
+
+    h1{
+      font: bold 40px;
+      font-size: 40px;
+      color: white;
+      margin-left: 200px;
+
+    }
+
+    h2{font: bold 35px Open Sans;
+      text-align: center;
+      color: white;
+
+    }
+
+  h3{
+    font-size: 30px;
+    color: black;
+    text-align:center;;
+    border: solid;
+    border-width: thick;
+    border-color: #f9e42e;
+    margin-left: 600px;
+    background-color: #f9e42e;
+    float:left;
+          }
+
+h4 {
+      font-size: 40px;
+      Color: black;
+      margin-left: 100px;
+
+
+}
+
+h5 {
+  font-size: 25px;
+  font-family: open sans;
+  Color: black;
+  margin-left: 100px
+
+
+}
+
+li {  font-size: 25px;
+  Color: black;
+  margin-left: 150px
+}
+
+
+
+h6 {
+background-image: url(testimonial_bg.jpg);
+  background-color:black;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+
+}
+
+h3{
+  font-size: 30px;
+  color: black;
+  text-align:center;;
+  border: solid;
+  border-width: thick;
+  border-color: #f9e42e;
+  margin-left: 600px;
+  background-color: #f9e42e;
+  float:left;
+
+ }
+
+  #Sign_up_Button {
+          font-size: 50px;
+          color: white;
+          text-align:center;;
+          border: solid;
+          border-top-width: thick;
+          border-width: thick;
+          border-color: #033048;
+          margin-right: 100px;
+          border-radius: 5px;
+        }
+
+
+
+
+
+#big_wrapper{
+  margin: 20px
+
+          }
